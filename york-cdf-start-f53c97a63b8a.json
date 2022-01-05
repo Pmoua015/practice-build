@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "york-cdf-start",
+  "private_key_id": "f53c97a63b8a2d0db1abc36325d088f3144f7f98",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8KMgUntpz/ck6\nUHsRbgoUItNQE1w+D8uqXu+HNMKyd3bDhWyEygtN23JyX5JWN2uFxM9cyyoP9rSO\nqW4LvxN/KCLwQdsIHIL9f0f9DEIwsNxFKwbjo870sepbaHYtD/9VQOu8wT3Qgx5d\nWrv+U8ptsyak2tvOieUa0M6/n8FhQC5JLohWDAV4hcb6dTYr7qNCg5m20X08Z5yN\nZtUBQG7K6L3EuQOXFpGvlSmfbtp3li0u2UyCu/inNWTxjKWMXzsEdFRRIbEC8it1\n0WSaihP4+IofUUcOBQyoDTirXXWrY4GJ2HMKS6F+h81DyCM6XxrQAi+ZpEfX3ZAC\npkP4iBIVAgMBAAECggEAAth7P13J3ORRiVIwLLEofsNdeEU1Fiz/FGGXeq8+1lwH\nRDyg/N7t+ryCPgrf4Vg47IU8ajSAlP/snTxTpHxV8zMCpXXaT7e+RTV9VUbWVaFH\n6rwUZtfY0hHcKXIKckyFY0vvzlzXmzvWA/nsRKCn4iHwbrpVOP0UMkqTPrBcrsr2\n7ulW9ADGY2llXG6JVLSWcO4FOZp7LVfulTB3SFE+QIdxPNm7OKbLVzu6RFfyfmZd\nEDLfNgjBknHf421F/SWxxJmjTbIevAcdULbQBdQCbtkYAYXZHPSOA6deSMhFnL6r\nAKsZhbaJKyGy6mMCd6++SxMc81vnMOYnfBga2p672QKBgQD+f9CGae9hUfyrRKU6\nZGEZJpwfh1PPpL19Kzsx8UM4P9Z03e7QajWrHLEfWSvzFLT49aqXv+BfkfTvdjfo\nEJBj5Jo764QnnMtTSWqogKvRHT4aN4jaF/UxrNlzV59Dsl4koz3kC+ygb64t0ryK\nOWs93lMUROtYOR3N8dOQV7VOvQKBgQC9RNJpxJzbRa0ORa2kId7jM0ARbnjq8R6W\n/Xph90Bp/PAsfe8NOYEx4f+9wHcydTC2wgNgSYYKB/oN9d8myAucbizz0++jUY2/\nTliE/4cS6yQZ0H9VmS2AZfF/bAHeE8I1kUCqIt1jXrhyXIs3MR6+ZapmQQOlKy4n\nU7wTiUVSOQKBgG2958lOPO8WT4H649S+HDCgOYpO7JEJVLx4u9nZU0caH/vdB3HP\nmrzibm46IX18XF1OcfVlw/byFVB9BbaIDftFREy6Tg5WykZrzhZDBdPybCkZ8WU6\nF30IL+xQyFiEvZvG2JVRnwO/pLgVuz9PazMOf3yqC2HLn1KDCNuhNolxAoGAUGUx\nc5f+gO2hytQyI+v3P07/wefJGRL+yWg2WfKqu9qjMmLz7gwlIsk61qEwgJBi9t6G\njJnug8hLoS51cYW72OC7236E5jy4FzDyTNw1xgV3ujdkPznnqAilgligmnKOJi7i\n5uIUZCdR9dH1mKYWxw1sSi8Hm1syKaZZ13qRpZECgYEAjsaQLR2EhLJvGBWK5OTV\nZz8mo9rk0yReGoomYOFqZZsBAxHdP0I9kSahPZVpQOF+n8JUjVRowUHfWifWtyPP\nbcgapsKU9J1fLnbN2JC+EiotVsnj6TraU4PSNJvxfebAQe1UznV00kEa9tYgsfgb\njGveGggSxiqOT/+JVx7MgcQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "taylorquickstartpython@york-cdf-start.iam.gserviceaccount.com",
+  "client_id": "109358693372129664375",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/taylorquickstartpython%40york-cdf-start.iam.gserviceaccount.com"
+}

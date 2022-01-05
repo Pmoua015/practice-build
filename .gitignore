@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# json file
+*json
+*york-cdf-start-f53c97a63b8a.json
+york-cdf-start-f53c97a63b8a.json
+
 # C extensions
 *.so
 
